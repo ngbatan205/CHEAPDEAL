@@ -1,0 +1,102 @@
+{
+    "packages": [
+        {
+            "id": 1,
+            "title": "Da Nang Beach Escape",
+            "location": "Da Nang, Vietnam",
+            "days": 4,
+            "price": 249,
+            "image": "https:\/\/images.unsplash.com\/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80",
+            "featured": true,
+            "description": "A bright coastal break with airport pickup, hotel stay, guided city highlights, and free beach time.",
+            "includes": [
+                "3 nights hotel",
+                "Breakfast",
+                "Airport transfer",
+                "City tour"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Bangkok Saver Trip",
+            "location": "Bangkok, Thailand",
+            "days": 3,
+            "price": 199,
+            "image": "https:\/\/images.unsplash.com\/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1200&q=80",
+            "featured": true,
+            "description": "A compact city deal for food markets, temples, shopping streets, and river views.",
+            "includes": [
+                "2 nights hotel",
+                "Daily breakfast",
+                "Temple tour",
+                "Travel support"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Bali Relax Package",
+            "location": "Bali, Indonesia",
+            "days": 5,
+            "price": 399,
+            "image": "https:\/\/images.unsplash.com\/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+            "featured": false,
+            "description": "A balanced island itinerary with villas, cultural stops, sunset viewpoints, and optional surfing.",
+            "includes": [
+                "4 nights villa",
+                "Breakfast",
+                "Ubud day trip",
+                "Sunset dinner"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Singapore Weekend",
+            "location": "Singapore",
+            "days": 3,
+            "price": 329,
+            "image": "https:\/\/images.unsplash.com\/photo-1525625293386-3f8f99389edd?auto=format&fit=crop&w=1200&q=80",
+            "featured": false,
+            "description": "A tidy weekend plan for Gardens by the Bay, Marina Bay, Sentosa, and food courts.",
+            "includes": [
+                "2 nights hotel",
+                "Transit card",
+                "Attraction pass",
+                "Support hotline"
+            ]
+        }
+    ],
+    "offers": [
+        {
+            "id": 1,
+            "title": "Early Bird",
+            "description": "Book 30 days ahead and save 15%.",
+            "code": "EARLY15"
+        },
+        {
+            "id": 2,
+            "title": "Family Deal",
+            "description": "Free child seat and airport transfer for family bookings.",
+            "code": "FAMILY"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Demo Customer",
+            "email": "customer@example.com",
+            "password": "$2y$10$mbS.wzmbQLJyhfeoDlypnuhrF1qKlfpxNeA5Ki9caaujBYe06o2lC",
+            "phone": "+84 900 000 000"
+        },
+        {
+            "id": 2,
+            "name": "Admin User",
+            "email": "admin@example.com",
+            "password": "$2y$10$PorzxyqnCKyAkv6mkjIdw.FykjQw2EzHff3kMGhu4M76AeN0umpou",
+            "phone": "+84 911 111 111",
+            "role": "admin"
+        }
+    ],
+    "orders": [],
+    "enquiries": [],
+    "payments": []
+}
